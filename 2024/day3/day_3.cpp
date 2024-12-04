@@ -1,9 +1,7 @@
-// Part 2
 #include <string>
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include <vector>
 #include <cctype>
 #include <cmath>
 
